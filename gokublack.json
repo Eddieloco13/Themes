@@ -253,8 +253,8 @@
        "YELLOW_900":"#f6c177"
     },
     "background":{
-       "blur":0.3,
-       "url":"https://files.catbox.moe/3kq0a2.jpeg",
+       "blur":0,
+       "url":"https://i.pinimg.com/564x/f3/9f/b0/f39fb0afcdf2dc064a877e87c00dd082.jpg",
        "alpha":0.8
     },
     "plus":{
