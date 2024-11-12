@@ -15,7 +15,7 @@
           "#FA206D"
        ],
        "TEXT_NORMAL":[
-          "#ebe3f7"
+          "#E91E63"
        ],
        "TEXT_MUTED":[
           "#d07cb4"
@@ -33,13 +33,13 @@
           "#5b5978"
        ],
        "BACKGROUND_PRIMARY":[
-          "#0e1623"
+          "#000000"
        ],
        "BACKGROUND_SECONDARY":[
-          "#0f1221"
+          "#9E9E9E"
        ],
        "BACKGROUND_SECONDARY_ALT":[
-          "#20253c"
+          "#FFFFFF"
        ],
        "BACKGROUND_TERTIARY":[
           "#171a30"
